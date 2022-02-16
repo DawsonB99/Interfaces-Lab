@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringArrayIterator
+comment0.text=\r\n\ \ \ Iterator\ over\ an\ array\ of\ String.\r\n\r\n\ \ \ @author\ Jim\ Teresco\r\n\ \ \ @version\ Spring\ 2020\r\n\r\n
+comment1.params=a
+comment1.target=StringArrayIterator(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ \ Construct\ a\ new\ iterator\ over\ the\ given\ array\ of\ Strings.\r\n\r\n\ \ \ \ \ \ \ @param\ a\ the\ array\ of\ Strings\ over\ which\ this\ iterator\ will\ operate\r\n
+comment2.params=
+comment2.target=boolean\ hasNext()
+comment2.text=\r\n\ \ \ \ \ \ \ Check\ if\ the\ iterator\ has\ more\ Strings\ to\ return.\r\n\r\n\ \ \ \ \ \ \ @return\ whether\ the\ iterator\ has\ more\ Strings\ to\ return\r\n
+comment3.params=
+comment3.target=java.lang.String\ next()
+comment3.text=\r\n\ \ \ \ \ \ \ Return\ the\ next\ String\ from\ the\ array\ not\ yet\ returned.\r\n\r\n\ \ \ \ \ \ \ @return\ the\ next\ String\ from\ the\ array\ not\ yet\ returned\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ \ \ \ \ \ \ main\ method\ implementing\ a\ few\ test\ cases\ for\ this\ iterator.\r\n\r\n\ \ \ \ \ \ \ @param\ args\ not\ used\r\n
+numComments=5
